@@ -1,0 +1,28 @@
+body {
+
+    background:#83D4F1;
+    width:100%;
+  }
+
+iframe {
+  border: 0;
+}
+
+.youtube {
+width: 100%;
+     max-width: 600px;
+     frameborder="0";
+   }
+
+#reddit-embed img {
+  width: 75%;
+}
+
+@media (max-width: 600px) {
+
+ #redditembed {
+   height: 490px;
+   width: 480px;
+ }
+
+}
