@@ -4,6 +4,9 @@ body {
     width:100%;
   }
 
+.intro {
+  margin: 10px;
+}
 iframe {
   border: 0;
 }
